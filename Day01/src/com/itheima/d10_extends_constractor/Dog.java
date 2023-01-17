@@ -13,7 +13,7 @@ public class Dog extends Animal{
 		super();
 //		super();//默认存在
 
-		//kiji
+		//
     System.out.println("子类无参构造器执行");
     //默认会先调父类的无参数构造器
 	}
